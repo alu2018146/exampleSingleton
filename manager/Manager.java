@@ -1,5 +1,5 @@
 package manager;
-
+a
 public class Manager {
 	private static Manager manager = null;
 
