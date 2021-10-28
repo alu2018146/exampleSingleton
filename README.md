@@ -1,2 +1,2 @@
 # Singleton example
-An example of Singleton
+An example of Singleton.
