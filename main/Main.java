@@ -1,3 +1,5 @@
+package main;
+
 import manager.Manager;
 
 public class Main {
